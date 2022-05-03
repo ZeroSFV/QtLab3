@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DelegateForDog.qml</file>
+        <file>DialogForAdd.qml</file>
+        <file>DialogForEdit.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
